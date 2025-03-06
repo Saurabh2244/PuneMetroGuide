@@ -1,4 +1,4 @@
-## The Metro App
+## The Pune Metro Guide
 
 Develop a C++ program for the Pune Metro Rail App, which takes input from the user regarding the source and destination stations on the Pune Metro, and provides information about the shortest metro route between these two stations, along with the fare. The idea will be implemented using Graph and Heap data structures. The graph will be having nodes and edges. Nodes represent a metro station that will be containing certain information regarding that station like its name, its metro corridor, and the lines which it connects. Edges (the connection between two nodes) represent the distance between the two stations and the cost of each edge will be equal to the distance between the two of its connecting stations(nodes). The program uses graph and heap data structures to represent and calculate the metro routes and fares efficiently, primarily relying on the Dijkstra algorithm.Some Standard Template Library (STL) is used during development like vector,unordered_map,priority_queue,stack,etc.
 
